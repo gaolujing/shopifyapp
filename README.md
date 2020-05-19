@@ -1,5 +1,10 @@
 # shopify_app_analysis
 
-The intent of the project is to describe the shopify app store data, by anwsering questions such as what are the most popular apps,  
-In this project, I built a database with datasets from https://www.kaggle.com/usernam3/shopify-app-store, and then used sql to query the data, and finally visualized the result datasets in tableau.
+The intent of the project is to describe the shopify app store landscape, by anwsering the following questions:
+  a. what are the most popular apps in each category?
+  b. what is the number of apps in each category, how about just 5-star apps?
+  c. what is the distribution of apps by rating score?
 
+To do this, I started by building a database with datasets from https://www.kaggle.com/usernam3/shopify-app-store, then used sql to query the database, and finally visualized the result datasets in tableau.
+
+The sql scripts used in querying the data are uploaded here. And to view the visulization of the final reulsts, please visit my public tableau dashboard https://public.tableau.com/profile/lujing.gao#!/vizhome/ShopifyAppsAnalysis/Dashboard1.
