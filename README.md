@@ -7,4 +7,4 @@ The intent of the project is to describe the shopify app store landscape, by anw
 
 To do this, I started by building a database with datasets from https://www.kaggle.com/usernam3/shopify-app-store, then used sql to query the database, and finally visualized the result datasets in tableau.
 
-The sql scripts and the resulting datasets are uploaded here. To view the visulization of the final results, please visit my public tableau dashboard https://public.tableau.com/profile/lujing.gao#!/vizhome/ShopifyAppsAnalysis/Dashboard1.
+The sql scripts and the resulting datasets are uploaded here. To view the visulization of the final results, please visit my public tableau dashboard https://public.tableau.com/views/ShopifyAppsAnalysis/Dashboard1?:display_count=y&:origin=viz_share_link.
